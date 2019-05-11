@@ -1,0 +1,5 @@
+tensorflow = 1.3.0
+pilllow
+matplotlib
+scipy
+opencv-python
